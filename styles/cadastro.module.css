@@ -1,0 +1,47 @@
+
+.nome{
+    width: 45%;
+    color: #fff;
+    margin-left: 3%;
+    margin-top: 1%;
+    position: absolute;
+}
+
+.bg{
+    overflow: hidden;
+}
+
+.card{
+    margin-left: 20%;
+    margin-top: 2%;
+    border-radius: 15px;
+    width: 100%;
+    height: 80vh;
+    background-color: brown;
+    overflow: hidden;
+}
+
+.img{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    margin-left: 50%;
+    align-items: center;
+    position: absolute;
+}
+
+.btnSub{
+    align-items: center;
+    justify-content: center;
+    margin-left: 8%;
+    width: 30%;
+    border: none;
+    margin-top: 54%;
+    position: relative;
+}
+
+.btnBack{
+    margin-left: 300px;
+    width: 26%;
+    position: relative;
+}

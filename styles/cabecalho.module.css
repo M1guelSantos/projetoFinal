@@ -1,0 +1,22 @@
+.btnHeader{
+    margin-left: 690px;
+    height: 30%;
+}
+
+.rodape{
+    background-color: rgb(41, 37, 37);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    height: 60px;
+}
+
+.text{
+    color: rgb(190, 44, 44);
+    margin-top: 1%;
+}
+
+.btnHeaderLog{
+    margin-left: 850px;
+    position: fixed;
+}

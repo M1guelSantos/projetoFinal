@@ -1,0 +1,44 @@
+
+.nome{
+    width: 45%;
+    color: #fff;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+.bg{
+    overflow: hidden;
+}
+
+.card{
+    margin-left: 20%;
+    margin-top: 1%;
+    border-radius: 15px;
+    width: 95%;
+    height: 80vh;
+    background-color: brown;
+    overflow: hidden;
+}
+
+.img{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    margin-left: 50%;
+    align-items: center;
+    position: absolute;
+}
+
+.btnSub{
+    align-items: center;
+    justify-content: center;
+    margin-left: 8%;
+    width: 30%;
+    border: none;
+    margin-top: 1%;
+}
+
+.btnBack{
+    margin-left: 300px;
+    width: 26%;
+}

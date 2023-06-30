@@ -1,0 +1,43 @@
+.card{
+    width: 150%;
+    height: 88%;
+    display: flex;
+    padding: 0;
+    border-radius: 15px;
+    overflow: hidden;
+    transition: all 0.3s linear;
+    left: 650px;
+    margin-top: 35px;
+}
+
+.cardImg{
+    width: 100%;
+    height: 150%;
+    display: flex;
+    transition: all 0.3s linear;
+}
+
+.h4{
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+    color: #f3f3f3;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
+    bottom: 5px;
+    left: 250px;
+}
+
+.card:hover{
+    box-shadow: 0 0 8px #d18484;
+    border: solid 1px #fff;
+}
+
+.card:hover .cardImg{
+    scale: 1.5;
+}
+
+.fundo{
+   overflow-y: hidden;
+   overflow-x: hidden;
+}
